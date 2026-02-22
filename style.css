@@ -200,47 +200,6 @@ h1 {
     background-color: #0056b3;
 }
 
-body:not(.dark-mode) {
-    background-color: #f4f4f4;
-    color: #000;
-}
-
-body:not(.dark-mode) h1 {
-    color: #000;
-}
-
-body:not(.dark-mode) #searchBar {
-    border-color: #ddd;
-    background-color: #fff;
-    color: #000;
-}
-
-body:not(.dark-mode) .zone-item {
-    background-color: white;
-    border-color: #ddd;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    color: #000;
-}
-
-body:not(.dark-mode) #zoneViewer {
-    background: white;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
-
-body:not(.dark-mode) #zoneViewer iframe {
-    background-color: #fff;
-}
-
-body:not(.dark-mode) #zoneInfo {
-    background: #ddd;
-    color: #000;
-}
-
-body:not(.dark-mode) #dataButtons input[type="file"] {
-    border-color: #ddd;
-    background-color: #f9f9f9;
-    color: #000;
-}
 
 body:not(.dark-mode) #sortOptions {
     background-color: white;
@@ -261,4 +220,5 @@ body:not(.dark-mode) #sortOptions {
     color: var(--text-color, #ffffff);
 
 }
+
 
