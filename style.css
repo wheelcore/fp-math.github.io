@@ -6,7 +6,7 @@ body {
 
 h1 {
     text-align: center;
-    color: #fff;
+    color: #301934;
 }
 
 #searchBar {
@@ -199,6 +199,7 @@ body:not(.dark-mode) #sortOptions {
     color: var(--text-color, #ffffff);
 
 }
+
 
 
 
