@@ -202,8 +202,8 @@ h1 {
 
 
 body:not(.dark-mode) #sortOptions {
-    background-color: white;
-    color: #000;
+    background-color: purple;
+    color: #B19CD9;
     border-color: #ddd;
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3E%3Cpath fill='%23343a40' d='M2 0L0 2h4zm0 5L0 3h4z'/%3E%3C/svg%3E");
 }
@@ -220,5 +220,6 @@ body:not(.dark-mode) #sortOptions {
     color: var(--text-color, #ffffff);
 
 }
+
 
 
