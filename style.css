@@ -180,27 +180,6 @@ h1 {
     outline: 0;
     box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, .25);
 }
-
-#darkModeToggle {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    padding: 10px 15px;
-    border: none;
-    background-color: #007bff;
-    color: white;
-    cursor: pointer;
-    border-radius: 5px;
-    font-size: 16px;
-    transition: background-color 0.3s;
-    z-index: 1000;
-}
-
-#darkModeToggle:hover {
-    background-color: #0056b3;
-}
-
-
 body:not(.dark-mode) #sortOptions {
     background-color: purple;
     color: #B19CD9;
@@ -220,6 +199,7 @@ body:not(.dark-mode) #sortOptions {
     color: var(--text-color, #ffffff);
 
 }
+
 
 
 
