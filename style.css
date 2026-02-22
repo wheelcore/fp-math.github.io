@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #43;
-    color: #fff;
+    background-color: #B19CD9;
+    color: #B19CD9;
 }
 
 h1 {
@@ -261,3 +261,4 @@ body:not(.dark-mode) #sortOptions {
     color: var(--text-color, #ffffff);
 
 }
+
